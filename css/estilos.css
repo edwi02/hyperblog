@@ -15,6 +15,7 @@ body {
 .container h1 {
     font-size: 24px;
     text-align: center;
+<<<<<<< HEAD
     color: #555;
 }
 
@@ -34,4 +35,13 @@ body {
 #post {
     background: white;
     padding: 1em;
+=======
+}
+
+#footer {
+    background: #ccc;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+>>>>>>> footer
 }
